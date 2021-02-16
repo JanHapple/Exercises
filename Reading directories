@@ -1,0 +1,14 @@
+Reading Directories
+Instructions
+
+1) Open a directory on your computer e.g. Documents.
+2) List all the contents in the directory.
+3) Show all hidden folders and files.
+4) Get details of all files and folders using a command shortcut.
+5) What command shortcut did you use to see all the details? Write your answer below.
+
+1) cd "directoryname"
+2) ls "directoryname"
+3) ls -a "directoryname"
+4) ls -al "directoryname"
+5) ll "directoryname"

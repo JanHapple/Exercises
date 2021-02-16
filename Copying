@@ -1,0 +1,11 @@
+Copying
+Instructions
+1) Create a directory named source. Inside this directory, create another directory named target.
+2) In source, create a readme file. Add some text to the file.
+3) Copy the readme file to target.
+4) Create another copy of reaadme file and add it in target.
+
+Answers:
+1 + 2) mkdir -p source/target && cd source && touch README.txt
+3) cp README.txt target
+4) cp README.txt target/README2.txt

@@ -1,0 +1,14 @@
+Delete
+Instructions
+
+1) Create a directory.
+2) Inside the directory, create a README.txt file.
+3) Add some text to the file.
+4) Remove the file.
+5) Remove the directory.
+
+Answers:
+1) mkdir Exercise-20210204
+2 + 3) cd Exercise-20210204 && echo > "README.txt"  Hello there!
+4 +5) cd .. && rm -r Exercise-20210204 
+

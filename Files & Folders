@@ -1,0 +1,20 @@
+Files and Folders
+Instructions
+
+1) Create a directory named practice-dir.
+2) Inside practice-dir, create a markdown file. (Markdown files end in .md).
+3) Open nano text editor. Inside the text editor, write “The quick brown fox jumps over the lazy dog.” and perform the following:
+4) Cut and paste the text.
+5) Get help (in nano).
+6) Find your current position.
+7) Go to a new line and add more text.
+8) Write out the text in the markdown file that you created. (Your nano text should appear in the markdown file).
+
+Answers:
+1 + 2) mkdir practice-dir && touch practice-dir/markdown.md
+3) nano
+4) StrG K (Cut) / StrG U (Paste)
+5) StrG G (Help)
+6) StrG C (Position)
+7) StrG_ (Go to new line) / Or just press enter
+8) StrG X / name the File / StrG  T (Browse)
